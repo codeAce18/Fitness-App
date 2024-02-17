@@ -1,7 +1,7 @@
 body {
-    font-family: 'Josefin Sans';
-    background-color: #FFFAFB;
-  }
+  font-family: 'Josefin Sans';
+  background-color: #FFFAFB;
+}
   
   * {
     padding: 0px;
@@ -60,8 +60,8 @@ body {
     width: 700px;
     height: 900px;
     margin-top: -330px;
-  
   }
+  
   
   .exercise-card {
     width: 400px;
